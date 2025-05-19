@@ -1,0 +1,12 @@
+{
+  "name": "mete-react-al-coco",
+  "version": "1.0.0",
+  "description": "Mi próximo paso como desarrollador web es aprender y dominar React. Así que dedicaré este repositorio a eso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
