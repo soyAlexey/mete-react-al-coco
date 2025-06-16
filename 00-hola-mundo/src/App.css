@@ -1,0 +1,43 @@
+.app-FollowCard {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.app-FollowCard-header {
+    display: inherit;
+    align-items: inherit;
+    gap: .5rem;
+}
+
+.app-FollowCard-avatar {
+    display: block;
+    height: 2.5rem;
+    aspect-ratio: 1;
+    border-radius: 100%;
+}
+
+.app-FollowCard-userInfo {font-size: 1rem;}
+
+.app-FollowCard-name {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.app-FollowCard-user {
+    display: block;
+    font-weight: 100;
+    color: rgb(255 255 255 / 50%);
+}
+
+.app-FollowCard-aside {
+    /* flex-basis: 4rem;
+    height: 100%; */
+}
+
+.app-FollowCard-button {
+    padding: .5rem 1rem;
+    font-weight: 700;
+    border-radius: 1rem;
+}
